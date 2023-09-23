@@ -1,0 +1,4 @@
+body {
+  background: url(video/back.jpg);
+  backdrop-filter: blur(5px);
+}
